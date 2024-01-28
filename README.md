@@ -17,8 +17,8 @@ Bem-vindo ao meu Jogo do Número Secreto! Este projeto foi desenvolvido durante 
 
 ## Tecnologias Utilizadas 💻
 
-- **Linguagem de Programação:** JavaScript.
-- **IDE:** Visual Studio Code.
+- **Linguagem de Programação:** JavaScript
+- **IDE:** Visual Studio Code
 
 ## Como Executar 🚀
 
