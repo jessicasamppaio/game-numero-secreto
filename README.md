@@ -44,4 +44,4 @@ Obrigado por jogar o Jogo de Adivinhação! Espero que tenha se divertido tentan
 
 ---
 
-**Autor:** Jéssica Sampaio
+**Autora:** Jéssica Sampaio
